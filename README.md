@@ -1,6 +1,6 @@
  👋 Hi, I’m @fjjt3 <h5 >
-- 👀 I’m interested in **Python, Machine Learning, Data Science**
-- 🌱 I’m currently learning _ETL, APIs, Data Science_
+- 👀 I’m interested in **Python, Machine Learning, Data Science, Backend, APIs, Frontend**
+- 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
